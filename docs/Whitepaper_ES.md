@@ -3,6 +3,8 @@
 </p>
 
 # Context-Driven AI Development (CDAD)
+Copyright © 2026 Moisés Griott
+Licensed under CC BY 4.0
 
 > **Cuando el contexto no gobierna a la IA, la IA termina gobernando la solución.**
 
@@ -747,3 +749,17 @@ La IA acelera la ejecución de una arquitectura correctamente definida.
 En CDAD, el contexto no es documentación auxiliar.
 
 El contexto es el fundamento que gobierna la solución.
+
+---
+
+# Licencia
+
+Este documento se distribuye bajo la licencia:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright © 2026 Moisés Griott
+
+Se permite copiar, distribuir, adaptar y reutilizar este trabajo, incluyendo usos comerciales, siempre que se mantenga la atribución correspondiente al autor original.

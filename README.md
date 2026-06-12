@@ -47,3 +47,13 @@ Its objective is to accelerate implementation without sacrificing architectural 
 ---
 
 > **Context is the new Source Code.**
+
+## License
+
+Documentation and whitepapers are licensed under:
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright © 2026 Moisés Griott
