@@ -1,0 +1,15 @@
+# CDAD temporary workspace
+context-work/
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
