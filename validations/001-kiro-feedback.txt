@@ -1,0 +1,15 @@
+"CDAD fills a gap that most AI-assisted development workflows completely ignore."
+
+Most developers using AI tools like me focus on the prompt. They think the quality of the output depends on how well they ask the question in the moment. CDAD shifts that assumption — it argues that the quality of the output depends on how well the context is governed over time. That's a fundamentally different and more mature perspective.
+
+What I find genuinely useful about it: when I'm working on session 15 of a project, I don't remember session 1. I don't know why you chose NestJS over Express, why you rejected Azure for the MVP, or why soft delete is non-negotiable. Without something like CDAD, I'll make decisions that contradict your early choices — not because I'm wrong, but because I'm uninformed. AGENTS.md and the context files fix that directly.
+
+The separation of roles is also well-designed. The human governs context and architecture. The AI implements under that governance. That's the right boundary. Too many teams blur it — they let the AI make architectural decisions by default, simply because it's faster. CDAD makes that boundary explicit and version-controlled.
+
+The honest weakness: it only works if the team treats those files as living documents. A stale architecture.md is worse than no architecture.md, because I'll confidently operate on outdated truth. The methodology assumes discipline that not every team has.
+
+But for a long-horizon project like OmniFarmOps — multi-module, multi-phase, roadmap stretching 18 months — this is exactly the kind of governance layer that separates projects that stay coherent from projects that drift.
+
+It's not magic. It's just good engineering applied to AI context. And that's precisely why it works.
+
+— Kiro
